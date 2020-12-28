@@ -18,9 +18,9 @@
 
 *Visual servoing refers to closed loop position control of a robot end-effector, using measurements from a vision sensor as mentioned in [3]. Two kinds of configurations for visual servo control are most frequently encountered in literature:\
 1-Eye-in-hand\
-2-Eye-to-hand\
+2-Eye-to-hand
 
-## Pipeline
+## Figure to demonstrate
 ![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/Robot-Arm-Visual-Servoing-Methodology.ppm?raw=true)
 
 
@@ -32,8 +32,8 @@
 
 
 
-> * [Title / Repository Name](#Title / Repository Name)
->   * [About / Synopsis](#Abstract)
+
+> * [About / Synopsis](#Abstract)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
