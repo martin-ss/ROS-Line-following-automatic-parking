@@ -27,18 +27,16 @@
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
-> * [Title / Repository Name](#TurtleBot3)
+
+> * [Title / Repository Name](#Visual servoing)
 >   * [About / Synopsis](#Abstract)
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
 >     * [Screenshot of the Environment](#screenshot-of-the-Environment)
->     * [Task 1 Steps](#features)
->     * [Task 2 Steps](#features)
->     * [Task 3 Steps](#features)
->     * [Task 4 Steps](#features)
+>     
+>     
 >   * [Refrencess](#Refrencess)
 
 
@@ -66,18 +64,10 @@ Sample:
 ![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/final%20gear-2.png?raw=true)
 ![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/final%20gear-3.png?raw=true)
 ![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/final%20gear-4.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/final%20gear-4.png?raw=true)
+![alt text](https://github.com/martin-ss/ROS-Line-following-automatic-parking/blob/main/final%20gear-5.png?raw=true)
 
 
-## Refrencess
-
-[1] https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ \
-[2] https://www.roscomponents.com/en/mobile-robots/214-turtlebot-3.html#/courses-no \
-[3] Book "ROS Robotics Projects" \
-[4] http://wiki.ros.org/gmapping \
-[5] Course titled “Mastering with ROS: Turtlebot3” \
-[6] Course titled “ROS Navigation in 5 days” \
-[7] http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber \
-[8] http://wiki.ros.org/navigation 
 
 ## About The Visual servoing Project
 It is impelemneted as a part of a course module named visual servoing and tracking for Master-2 
