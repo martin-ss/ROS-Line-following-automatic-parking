@@ -1,0 +1,14 @@
+material traffic_is_left
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture traffic_is_left.png
+      }
+    }
+  }
+}
+
